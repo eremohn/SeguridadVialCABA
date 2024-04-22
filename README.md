@@ -13,6 +13,9 @@ Este repositorio contiene el resultado del análisis de datos sobre siniestros v
 3. **Diccionario de Datos "diccionario.txt":**
    El diccionario proporciona una guía detallada sobre las columnas y variables presentes en el archivo CSV "siniestros_viales.csv". Ayuda a comprender el significado de cada campo y facilita la interpretación de los datos.
 
+4. **Archivo Jupyter Notebook "EDA_Siniestros_viales.ipynb":**
+   Este archivo contiene el desarrollo completo del proceso ETL (Extract, Transform, Load) sobre la base de datos proporcionada por el Observatorio de Movilidad y Seguridad Vial (OMSV). En este notebook, se lleva a cabo la extracción de los datos brutos, se aplican transformaciones para preparar los datos de manera adecuada y se cargan en un formato apto para su posterior análisis. Además, se incluye un exhaustivo Análisis Exploratorio de Datos (EDA) que profundiza en las características principales de los siniestros viales en la Ciudad de Buenos Aires (CABA). Este análisis proporciona información clave que puede ser utilizada por las autoridades locales para implementar medidas efectivas destinadas a reducir la cantidad de víctimas fatales en accidentes de tráfico.
+
 ---
 
 #### Fuentes de Datos:
