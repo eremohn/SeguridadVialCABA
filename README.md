@@ -10,7 +10,7 @@ Este repositorio contiene el resultado del análisis de datos sobre siniestros v
 2. **Archivo CSV "siniestros_viales.csv":**
    Este archivo contiene el conjunto de datos procesado y limpio utilizado para el análisis. Incluye información sobre los siniestros viales ocurridos en la Ciudad de Buenos Aires (CABA) entre 2016 y 2021, con detalles sobre las víctimas, vehículos involucrados, ubicación y otras variables relevantes.
 
-3. **Diccionario de Datos "diccionario.txt":**
+3. **Diccionario de Datos "Diccionario_Siniestros_viales.xlsx":**
    El diccionario proporciona una guía detallada sobre las columnas y variables presentes en el archivo CSV "siniestros_viales.csv". Ayuda a comprender el significado de cada campo y facilita la interpretación de los datos.
 
 4. **Archivo Jupyter Notebook "EDA_Siniestros_viales.ipynb":**
