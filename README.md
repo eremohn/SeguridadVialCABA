@@ -22,7 +22,7 @@ La finalidad de este trabajo es contribuir a la mejora de la seguridad vial urba
 
 ## Insights
 ---
-[Informe](https://github.com/eremohn/LATAM_COVID-19/blob/main/Informe/informe.md) 
+[Informe](https://github.com/eremohn/SeguridadVialCABA/blob/main/Informe/Informe.md)
 
 
 
