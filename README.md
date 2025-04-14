@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Informe/Imagenes/Banner_Proyecto.jpg" width="706" height="224""    >
+<img src="Informe/Imagenes/Banner_Proyecto.jpg" width="1200" height="400""    >
 </p>
 
 ##  Introducción del Proyecto
