@@ -1,26 +1,31 @@
-### Informe de Análisis de Seguridad Vial - Repositorio "SeguridadVialCABA"
+<p align="center">
+<img src="Informe/Imagenes/Banner_Proyecto.jpg" width="706" height="224""    >
+</p>
 
-Este repositorio contiene el resultado del análisis de datos sobre siniestros viales en la Ciudad de Buenos Aires (CABA) realizado en colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV). El objetivo principal de este proyecto es proporcionar información clave que permita a las autoridades locales tomar medidas efectivas para reducir la cantidad de víctimas fatales en accidentes de tráfico.
+##  Introducción del Proyecto
+En entornos urbanos como la Ciudad Autónoma de Buenos Aires, los siniestros viales representan una problemática crítica que afecta tanto a la seguridad pública como al desarrollo urbano sostenible. Este proyecto surge como una iniciativa de análisis de datos con el objetivo de comprender en profundidad las características y dinámicas de los accidentes de tránsito ocurridos entre los años 2016 y 2021. A través del tratamiento, visualización e interpretación de datos proporcionados por el Observatorio de Movilidad y Seguridad Vial (OMSV), se busca obtener hallazgos relevantes que sirvan de base para la toma de decisiones en políticas públicas de seguridad vial.
 
-#### Contenido del Repositorio:
+## Propósito
+El propósito de este proyecto es identificar patrones, tendencias y factores de riesgo asociados a los siniestros viales en la Ciudad Autónoma de Buenos Aires. Mediante técnicas de análisis exploratorio de datos (EDA), se pretende generar información clara y comprensible que permita detectar los segmentos de población más vulnerables, los momentos críticos del día, y las categorías de vehículos con mayor incidencia en accidentes, con el fin de proponer mejoras basadas en evidencia.
 
-1. **Informe Técnico en el Análisis de Seguridad Vial:**
-   El informe detalla la metodología utilizada, los hallazgos y las conclusiones derivadas del análisis exhaustivo de los datos de siniestros viales en la CABA. Se abordan temas como la exploración de datos, análisis de tendencias, distribución de víctimas por edad y tipo de vehículo, entre otros aspectos relevantes para comprender la situación de seguridad vial en la ciudad.
+## Finalidad
+La finalidad de este trabajo es contribuir a la mejora de la seguridad vial urbana, facilitando el diseño de estrategias preventivas, campañas de concientización y acciones de gestión pública más eficaces. Los resultados obtenidos apuntan a apoyar la formulación de políticas que reduzcan la tasa de siniestros y víctimas fatales, fortaleciendo la movilidad segura en la ciudad.
 
-2. **Archivo CSV "siniestros_viales.csv":**
-   Este archivo contiene el conjunto de datos procesado y limpio utilizado para el análisis. Incluye información sobre los siniestros viales ocurridos en la Ciudad de Buenos Aires (CABA) entre 2016 y 2021, con detalles sobre las víctimas, vehículos involucrados, ubicación y otras variables relevantes.
-
-3. **Diccionario de Datos "Diccionario_Siniestros_viales.xlsx":**
-   El diccionario proporciona una guía detallada sobre las columnas y variables presentes en el archivo CSV "siniestros_viales.csv". Ayuda a comprender el significado de cada campo y facilita la interpretación de los datos.
-
-4. **Archivo Jupyter Notebook "EDA_Siniestros_viales.ipynb":**
-   Este archivo contiene el desarrollo completo del proceso ETL (Extract, Transform, Load) sobre la base de datos proporcionada por el Observatorio de Movilidad y Seguridad Vial (OMSV). En este notebook, se lleva a cabo la extracción de los datos brutos, se aplican transformaciones para preparar los datos de manera adecuada y se cargan en un formato apto para su posterior análisis. Además, se incluye un exhaustivo Análisis Exploratorio de Datos (EDA) que profundiza en las características principales de los siniestros viales en la Ciudad de Buenos Aires (CABA). Este análisis proporciona información clave que puede ser utilizada por las autoridades locales para implementar medidas efectivas destinadas a reducir la cantidad de víctimas fatales en accidentes de tráfico.
-
-5. **Archivo en Power BI "siniestros_viales.pbix":**
-    Este documento proporciona un dashboard interactivo que permite visualizar de manera dinámica los análisis detallados en el informe técnico. Con esta herramienta, los usuarios pueden explorar de manera más precisa y enfocada la información contenida en el conjunto de datos de siniestros viales de la Ciudad de Buenos Aires (CABA), facilitando así la comprensión y toma de decisiones informadas por parte de las autoridades locales y otros interesados en la seguridad vial.
 ---
 
-#### Fuentes de Datos:
+## Visualizaciones
+---
 
-- [Dataset de Siniestros Viales - OMSV CABA](https://docs.google.com/spreadsheets/d/1nq00jGIZHQ1RLSET43zKnUsMsoFb-pBg/edit#gid=1625530738)
-- [Diccionario de Datos del Dataset](https://docs.google.com/spreadsheets/d/1Op98U-Hh2a3Q7uuznAzdl4Bf8r8qPr4m/edit#gid=1771770012)
+
+- [Visualización de datos]()
+
+
+## Insights
+---
+[Informe](https://github.com/eremohn/LATAM_COVID-19/blob/main/Informe/informe.md) 
+
+
+
+---
+#### Fuentes de Datos:
+- [Dataset de COVID-19](https://drive.google.com/file/d/1asTXNEx_IGFDheRIDqPteII12Iz7Ghj2/view?usp=drive_link)
