@@ -26,21 +26,21 @@ transformación de los datos hasta la identificación de posibles anomalías y l
 de datos para su análisis.
 
 ### 1. Transformación de la Base de Datos a DataFrames:
-• Se importaron las librerías necesarias, principalmente pandas, para manejar los datos en
+- Se importaron las librerías necesarias, principalmente pandas, para manejar los datos en
 Python.
-• Los datos fueron cargados desde archivos Excel en dos DataFrames distintos: df_victimas y
+- Los datos fueron cargados desde archivos Excel en dos DataFrames distintos: df_victimas y
 df_hechos .
-• Se realizó una fusión de estos DataFrames utilizando la columna 'ID_hecho' como clave de
+- Se realizó una fusión de estos DataFrames utilizando la columna 'ID_hecho' como clave de
 unión.
-• Se reordenaron y renombraron las columnas para una mejor comprensión y consistencia en los
+- Se reordenaron y renombraron las columnas para una mejor comprensión y consistencia en los
 datos.
 
 ### 2. Exploración de los Datos:
-• Se realizó una exploración inicial de los DataFrames para comprender su estructura y
+- Se realizó una exploración inicial de los DataFrames para comprender su estructura y
 contenido.
-• Se verificó la presencia de valores nulos o faltantes en los datos y se tomó nota de la cantidad
+- Se verificó la presencia de valores nulos o faltantes en los datos y se tomó nota de la cantidad
 de registros en cada DataFrame.
-• Se identificaron los tipos de datos presentes en las columnas y se analizó la distribución de
+- Se identificaron los tipos de datos presentes en las columnas y se analizó la distribución de
 valores en cada una de ellas.
 
 
