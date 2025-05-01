@@ -28,4 +28,4 @@ La finalidad de este trabajo es contribuir a la mejora de la seguridad vial urba
 
 ---
 #### Fuentes de Datos:
-- [Dataset accidentes viales](https://github.com/eremohn/SeguridadVialCABA/blob/main/Raw_Data/homicidios.xlsx)
+- [Dataset accidentes viales](https://github.com/eremohn/SeguridadVialCABA/blob/main/Raw_Data)
