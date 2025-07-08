@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Informe/Imagenes/Banner_Proyecto.jpg" width="100%" alt="Banner del Proyecto">
+  <img src="reports/figures/Banner_informe.png" >
 </p>
 
 # Análisis de Siniestros Viales en CABA (2016–2021)
