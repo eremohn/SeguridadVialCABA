@@ -1,8 +1,3 @@
-<p align="center">
-<img src="../Informe/Imagenes/Banner_informe.jpg"  >
-</p>
-
-
 ## Introducción
 ---
 
@@ -74,7 +69,7 @@ mejorar la seguridad vial.
 ### Histograma Cantidad de Accidentes por año
 
 <p align="center">
-<img src="../Informe/Graficos/Histograma_Cantidad_de_Accidentes_por_año.png"  >
+<img src="../reports/figures/Histograma_Cantidad_de_Accidentes_por_año.png"  >
 </p>
 
 Al observar el histograma 'Cantidad de Accidentes por Año, notamos una tendencia hacia la
@@ -88,7 +83,7 @@ sustancial en el número de accidentes en el futuro.
 ### Comparación entre las víctimas de accidentes y la incidencia de fallecidos
 
 <p align="center">
-<img src="../Informe/Graficos/Comparacion_entre_las_victimas_de_accidentes_y_la_incidencia_de_fallecidos.png"  >
+<img src="../reports/figures/Comparacion_entre_las_victimas_de_accidentes_y_la_incidencia_de_fallecidos.png"  >
 </p>
 
 Podemos concluir inicialmente que la tasa de mortalidad en accidentes de tráfico es tan elevada
@@ -107,7 +102,7 @@ tendencia general de accidentes, ofreciendo una visión más completa de la segu
 tiempo y ayudándonos a tomar medidas preventivas adecuadas.
 
 <p align="center">
-<img src="../Informe/Graficos/Cantidad_de_Accidentes_a_lo_largo_del_tiempo.png"  >
+<img src="../reports/figures/Cantidad_de_Accidentes_a_lo_largo_del_tiempo.png"  >
 </p>
 
 Se puede observar un patrón altamente fluctuante en la incidencia de accidentes, tanto de mes a
@@ -135,7 +130,7 @@ Empezamos a ver en detalle cada uno de los Vehículo que ocupaba quien haya fall
 haya lastimado a raíz del hecho, o bien peatón/a.
 
 <p align="center">
-<img src="../Informe/Graficos/Cantidad_de_Accidentes_por_Año_y_Categoría_de_Víctima.png"  >
+<img src="../reports/figures/Cantidad_de_Accidentes_por_Año_y_Categoría_de_Víctima.png"  >
 </p>
 
 Del análisis del gráfico anterior, se pueden extraer las siguientes conclusiones:
@@ -166,7 +161,7 @@ Se calcula la media de la cantidad de accidentes para cada grupo de edad y se re
 medias en un gráfico de líneas, destacando las tendencias según la edad a lo largo del tiempo.
 
 <p align="center">
-<img src="../Informe/Graficos/Análisis_de_la_Influencia_de_la_Edad_en_la_Incidencia_de_Accidentes_de_Tráfico.png"  >
+<img src="../reports/figures/Análisis_de_la_Influencia_de_la_Edad_en_la_Incidencia_de_Accidentes_de_Tráfico.png"  >
 </p>
 
 Al analizar los datos inicialmente, se observa que el grupo de edad más frecuentemente
@@ -186,7 +181,7 @@ fallecidas o heridas como resultado del incidente, así como también de los pea
 comprender mejor el comportamiento de cada grupo etario en relación específica al tipo de siniestro.
 
 <p align="center">
-<img src="../Informe/Graficos/Distribución_de_Víctimas_por_Grupo_Etario_y_Tipo_de_Víctima.png"  >
+<img src="../reports/figures/Distribución_de_Víctimas_por_Grupo_Etario_y_Tipo_de_Víctima.png"  >
 </p>
 
 Del gráfico anterior, podemos observar una vez más la grave falta de seguridad vial que afecta
@@ -214,7 +209,7 @@ accidentes por hora. El objetivo es visualizar, a través de un gráfico de barr
 que se registra una mayor cantidad de accidentes de tráfico.
 
 <p align="center">
-<img src="../Informe/Graficos/Promedio_de_Accidentes_por_Hora_del_Día.png"  >
+<img src="../reports/figures/Promedio_de_Accidentes_por_Hora_del_Día.png"  >
 </p>
 
 Se puede concluir que la mayoría de los accidentes viales ocurren durante la mañana,
